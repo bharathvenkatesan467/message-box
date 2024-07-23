@@ -1,0 +1,35 @@
+.container{
+    max-width: 600px;
+    height: 200px;
+    margin: 250px auto;
+    text-align: center;
+    box-shadow: 5px;
+}
+input{
+    text-align: center;
+    padding: 8px 100px;
+    border: none;
+    border: 2px solid goldenrod;
+    margin-bottom: 10px;
+    font-size: larger;
+    border-radius: 8px;
+}
+fieldset{
+    border: 5px solid gold;
+    border-radius: 10px;
+    background-color: #FFF8DC;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    background-color: goldenrod;
+}
+body{
+    background-color: #F8EDED;
+}
+input:hover{
+    order: 2px solid goldenrod;
+    border-radius: 8px;
+    background-color: #e5e2d8;
+}
